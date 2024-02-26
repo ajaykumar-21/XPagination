@@ -17,7 +17,7 @@
 .employee-table th,
 .employee-table td {
   padding: 8px;
-  border: 1px solid #ddd;
+  border: 1px solid blue;
 }
 
 .pagination-buttons {
@@ -40,4 +40,8 @@
 .pagination-buttons button:disabled {
   background-color: #ccc;
   cursor: not-allowed;
+}
+
+thead{
+  background-color: #007bff;
 }
