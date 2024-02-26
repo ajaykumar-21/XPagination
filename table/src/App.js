@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="pagination-container">
-      <h1>Employee Data</h1>
+      <h1>Employee Data Table</h1>
       <table className="employee-table">
         <thead>
           <tr>
